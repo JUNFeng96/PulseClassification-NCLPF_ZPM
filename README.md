@@ -10,9 +10,10 @@ Abstract: An algorithm for extracting the velocity pulse signal was proposed bas
 # Contents
 
 1. Main_pulse_classification_script.m: Main pulse classification script.
-2. parseAT2.m: Parser for NGA West2 AT2 files.
-3. zero_point_method.m: Script for extracting pulse signal based on zero point method.
-4. make_plot_comparison.m: kes the plot of extracted pulse(FP) and original ground motion(velocity).
-5. 666 records are utilized to calibrate the classification standard,
-6. Classification results.txt: Classification results of 666 records.
-7. The folder of Ground motion (AT2).
+2. classification_standard.m: Script for the classification standard of pulse-like ground motion.
+3. parseAT2.m: Parser for NGA West2 AT2 files.
+4. zero_point_method.m: Script for extracting pulse signal based on zero point method.
+5. make_plot_comparison.m: kes the plot of extracted pulse(FP) and original ground motion(velocity).
+6. 666 records are utilized to calibrate the classification standard,
+7. Classification results.txt: Classification results of 666 records.
+8. The folder of Ground motion (AT2).
