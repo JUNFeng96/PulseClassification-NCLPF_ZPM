@@ -1,4 +1,4 @@
-% Main pulse classification script
+% Main pulse classification script  [JUN Feng,2020]
 %%%%%%%%%%%%%%%%
 %
 % Inputs : 
