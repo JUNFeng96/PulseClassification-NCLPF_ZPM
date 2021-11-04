@@ -1,5 +1,5 @@
 % Script for extracting pulse signal.
-% Based on the zero-point method
+% Based on the zero-point method    [JUN Feng,2020]
 %%%%%%%%%%%%%%%%
 %
 % Inputs : 
