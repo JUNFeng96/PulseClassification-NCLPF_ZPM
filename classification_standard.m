@@ -1,4 +1,4 @@
-%%% Classification standard of pulse-like ground motion %%%
+%%% Classification standard of pulse-like ground motion [JUN Feng,2020]%%%
 %%%%%%%%%%%%%%%%
 %
 % Inputs : 
