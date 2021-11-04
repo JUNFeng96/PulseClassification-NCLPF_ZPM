@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Parser for NGA West2 AT2 files！！！！！！jun,2020
+% Parser for NGA West2 AT2 files      [JUN Feng,2020]
 % ---------------------------------
 % Input : Full path of the file to be parsed
 % 
